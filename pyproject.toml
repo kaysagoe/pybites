@@ -46,3 +46,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
+get-pybites-top-10-tags = "4.tags.main"
